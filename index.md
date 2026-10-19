@@ -17,7 +17,7 @@ Rutulaya collects the following data that you voluntarily enter:
 - Period dates and flow intensity
 - Symptoms, moods, and personal notes
 - Physical data: weight, temperature, sleep hours, water intake
-- Supplements you choose to log
+- Supplements and wellness items
 - Name and date of birth (both optional, used only for personalisation)
 - Health goal selection
 
